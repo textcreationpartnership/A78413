@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another word to purpose against The long Parliament revived. By C. C. of Grays-Inne, Esq;</title>
+            <author>Drake, William, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78413</idno>
+            <idno type="STC">Wing C16</idno>
+            <idno type="STC">Thomason E1053_5</idno>
+            <idno type="STC">ESTC R207979</idno>
+            <idno type="EEBO-CITATION">99866990</idno>
+            <idno type="PROQUEST">99866990</idno>
+            <idno type="VID">119280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119280)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1053[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another word to purpose against The long Parliament revived. By C. C. of Grays-Inne, Esq;</title>
+                  <author>Drake, William, Sir.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Dring, at the George in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>C.C. = Sir William Drake.</note>
+                  <note>Annotation on Thomason copy: "Dec: 7. xber [i.e. December] 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drake, William, --  Sir. --  Long Parliament revived.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119280:1" rendition="simple:additions"/>
+            <p>ANOTHER WORD TO PURPOSE Againſt The Long Parliament REVIVED.</p>
+            <p>
+               <hi>By C. C. of</hi> Grays-<hi>Inne Eſq;</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Dring,</hi> at the <hi>George</hi> in <hi>Fleet-ſtreet,</hi> 1660.</p>
+         </div>
+         <div type="act">
+            <pb facs="tcp:119280:2"/>
+            <opener>
+               <date>Anno 17 Caroli Regis.</date>
+            </opener>
+            <head>An Act to prevent Inconveniences which may hap<g ref="char:EOLhyphen"/>pen by the untimely Adjourning, Proroguing, or Diſſolving of this preſent Parliament.</head>
+            <p>WHereas great Sums of Money muſt of neceſſity be ſpeedily advanced and provided for relief of His <hi>MA<g ref="char:EOLhyphen"/>JESTIES</hi> Army and People in the Northern parts of this Realm; and for preventing the imminent danger this Kingdome is in and for ſupply of other His Majeſties preſent and urgent occaſions, which cannot be ſo timely effected as is requiſite, with<g ref="char:EOLhyphen"/>out Credit for raiſing the ſaid Moneys; which Credit cannot be obtained until ſuch obſtacles be firſt removed, as are occaſioned by fears, jealouſies, and apprehenſions of divers of His Majeſties Loyal Subjects, that this preſent Parliament may be Adjourn<g ref="char:EOLhyphen"/>ed, Prorogued, or Diſſolved before Iuſtice ſhall be duely executed upon Delinquents, Publique grievances redreſſed, a firm Peace between the two Nations of <hi>England</hi> and <hi>Scotland</hi> concluded, and be<g ref="char:EOLhyphen"/>fore ſufficient pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſion be made for the repayment of the ſaid Moneys ſo to be raiſed. All which the Commons in this preſent Parliament aſſembled having duly conſidered, do therefore humbly beſeech Your Moſt Excellent Majeſty that it may be Declared and Enacted,</p>
+            <p>And be it Declared and Enacted by the King our Soveraign Lord, with the aſſent of the Lords and Commons in this preſent Parliament aſſembled, and by the Authority of the ſame, that this preſent Parliament now aſſembled ſhall not be diſſolved, un<g ref="char:EOLhyphen"/>leſs it be by Act of Parliament to be paſſed for that purpoſe: Nor ſhall be at any time or times, duriug the continuance thereof, Prorogued, or Adjourned, unleſs it be by Act of Parliament, to be likewiſe paſſed for that purpoſe: And that the Houſe of Peers ſhall not at any time or times during this preſent Parliament<g ref="char:punc">▪</g> be Adjourned, unleſs it be by themſelves, or by their own Order: And in like manner, that the Houſe of Commons ſhall not at any time or times, during this preſent Parliament, be Adjourned, un<g ref="char:EOLhyphen"/>leſs it be by themſelves, or by their own Order: And that all and every thing and things whatſoever, done, or to be done, for the Ad<g ref="char:EOLhyphen"/>jouruing Proroguing, or Diſſolving of this preſent Parliament, contrary to this Act, ſhall be utterly void and of none effect.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:119280:2"/>
+            <head>ANOTHER WORD TO PURPOSE Againſt The Long Parliament REVIVED.</head>
+            <p>THat it is eaſie to Conjure up Spirits, but hard to Conjure them down again, we finde it true; yet who would not have thought, that the very Name of <hi>King Charles</hi> the Second had been ſuch a Charm as would have confounded the moſt Male<g ref="char:EOLhyphen"/>volent-ſpirit that ever traced Engliſh ground? yet ſo it is, That there is not only ſome dark Spirits which haunt corners, yet remaining with us; but in the face of the world here has (with brazen brow) appeared amongſt us the moſt unexpectedly Pernicious, Dam<g ref="char:EOLhyphen"/>nable
+<pb n="4" facs="tcp:119280:3"/> and Treaſonable Find that Hell has to ſend forth, whoſe Errand is to Move for the Reſurrection of the Long Parliament; which is in truth, That the Unparalel'd Tragedy of the laſt 18. years mi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t be Acted over again; Such a Tragedy, in compariſon of which, that of <hi>Maſſenello</hi> in <hi>Naples;</hi> that of <hi>John</hi> of <hi>Leyden</hi> and <hi>Knipperdoling</hi> in <hi>Germany;</hi> that report<g ref="char:EOLhyphen"/>ed by <hi>Machiavel</hi> in <hi>Florence,</hi> are but like the ſtory of <hi>Tom Thumb,</hi> compared with St. <hi>George</hi> and the Dra<g ref="char:EOLhyphen"/>gon.</p>
+            <p>Corruption is infectious; and leaſt this ſeditious Pamphlet ſhould taint any ignorant or diſ-affected perſons, I thought good to accept the bold challenge of the Author, to demonſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate his ſeditious ſpirit, and to anſwer his invincible Arguments according to Law, which by other Arguments I did before in my <hi>Parthian Dart,</hi> which I ſuppoſe came not to his hands.</p>
+            <p>The main foundation he builds upon, is the pre<g ref="char:EOLhyphen"/>tended Act made in 1640. for the Continuance of the Parliament without diſſolution, but by an Act for the purpoſe, which is his high and mighty Bul<g ref="char:EOLhyphen"/>wark, whereby he fortifies himſelf againſt all oppo<g ref="char:EOLhyphen"/>ſition; but I ſhall ſoon caſt down all his works with few words.</p>
+            <p>And in the firſt place, I do declare my opinion to be, That that Act was void in its Creation, ſo that the King was not obliged by it; but might immedi<g ref="char:EOLhyphen"/>ately by vertue of his prerogative have broken up that Parliament, notwithſtanding that Act: And this I hold upon theſe two Grounds. 1. <hi>In reſpect of the King.</hi> 2. <hi>In reſpect of the two Houſes.</hi>
+            </p>
+            <pb n="5" facs="tcp:119280:3"/>
+            <p>1. <hi>In reſpect of the King;</hi> and for that I lay down this for Law, That the King by conſenting to an <hi>Act</hi> (tendered him for that purpoſe) cannot grant away and ſever from his Crown the inherent Priviledges and prerogatives which <hi>(ab antiquo)</hi> have been and continue to that time attending and annexed to his Crown; as his power of commanding his ſubjects for publick good, cannot be reſtrained neither in <hi>Th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſi</hi> nor <hi>Hypotheſi,</hi> but that the King by his Royal and inſeparable prerogative may diſpence with ſuch reſtriction; for upon commandment of the King, and obedience of the ſubject, doth his Government conſiſt.</p>
+            <p>It is provided by the Statute of 23. <hi>H.</hi> 6. <hi>Cap.</hi> 8. That all Patents made to Sheriffs for yea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, life, or in Fee, <hi>&amp;c.</hi> are void, notwithſtanding any clauſe of <hi>non obſtante, &amp;c.</hi> and the Patentee is thereby diſabled to take the office; yet adjudged by all the Judges of <hi>England,</hi> in the Exchequer Chamber, 2 <hi>H.</hi> 7. 66. That the King was not bound by that Statute.</p>
+            <p>Alſo the King may pardon Murder, and Treaſon, &amp;c. with <hi>non obſtante, vid.</hi> the Act 13 <hi>R.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Parli. 2. <hi>cap.</hi> 1.</p>
+            <p>So the Statute of 4 <hi>H.</hi> 4. <hi>cap.</hi> 13. That no Welch<g ref="char:EOLhyphen"/>man be Juſtice, &amp;c. in <hi>Wales,</hi> binds not the King.</p>
+            <p>So the Act of <hi>H. 3. de tallagio non concedendo, (vid, Raſtal, tit. Purveyance)</hi> which would bar the King wholly of Purveyance, is void, and binds not the King.</p>
+            <p>So the Statute of 8 <hi>R.</hi> 2. <hi>cap.</hi> 2. and 33. <hi>H.</hi> 6. That none ſhall be Juſtice of Aſsize in his own County, binds not the King, as is obvious by every dayes ex<g ref="char:EOLhyphen"/>perience:
+<pb n="6" facs="tcp:119280:4"/> and many more like theſe.</p>
+            <p>And the reaſons of all theſe Caſes, are, becauſe the King has not power to aſſent to any Act, which ſhall indeavour to eradicate any of the Native precious Flowers of his Crown; and this holds not onely in things Civil, but Eccleſiaſtical too, as appears by the reſolution of the two chief Juſtices, and other the Judges at a Committee before the Lords in Parlia<g ref="char:EOLhyphen"/>ment, <hi>Anno</hi> 8 <hi>Jacobi,</hi> where it was holden and de<g ref="char:EOLhyphen"/>clared by them all, That Canons made in a Convo<g ref="char:EOLhyphen"/>cation and confirmed by the Royal aſſent, could not be put in execution, if they were againſt the Kings prerogative.</p>
+            <p>King <hi>John</hi> in the 13<hi rend="sup">th</hi> year of his timorous Raign, ſent Ambaſſadors to <hi>Admiralius Murmeli<g ref="char:EOLhyphen"/>nus,</hi> 
+               <note place="margin">
+                  <hi>Math.</hi> Paris. <hi>p.</hi> 9. 233.</note> great Emperour of <hi>Turky,</hi> to offer to be of his Religion, and to make his Kingdom Tributary to him; but that Heroick In<g ref="char:EOLhyphen"/>fidel great Prince, as a thing unworthy of a King, to deny his Religion, and betray his Kingdom, ut<g ref="char:EOLhyphen"/>terly refuſed to accept. But this puſilanimous Prince of ours, by the threats and perſwaſions of <hi>Pandul<g ref="char:EOLhyphen"/>phus</hi> the Popes Commiſſary, the next year <hi>(Cum con<g ref="char:EOLhyphen"/>muni Concilio Baronum)</hi> ſurrend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed his Kingdoms of <hi>England</hi> and <hi>Ireland</hi> to Pope <hi>Innocent</hi> the III. and that he would hold his Crown from thenceforth as Fcodary to the Pope, paying for both his Kingdoms 1000 Marks <hi>per annum;</hi> which 1000 Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks with the arrearages was demanded by the Pope of wiſe King <hi>Edw.</hi> the 3<hi rend="sup">d</hi> in the 4th year of his Raign, who called a Parliament thereupon, whoſe reſolution was, That the King could not do it without the conſent of the
+<pb n="7" facs="tcp:119280:4"/> Commons, as appears <hi>Rot. Parl. 40. E. 3. Numb.</hi> 8. an Act not yet Printed. And though it was then re<g ref="char:EOLhyphen"/>ſolved, that it could not be done without the conſent of the Commons, which was to defeat the Kings Grant with the greateſt colour; yet it did not im<g ref="char:EOLhyphen"/>ply, that he might do it with the conſent of the Com<g ref="char:EOLhyphen"/>mons; for in <hi>Rot. Parliamenti, 42. E. 3. numb.</hi> 7. up<g ref="char:EOLhyphen"/>on further debate, It was declared by the Lords and Commons in full Parliament, That they could not aſſent to any thing in Parliament that tended to the diſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſon of the King &amp; his Crown, whereunto they were ſworn; which late preſident I bring to prove the ſecond reſpect before mentioned of the two Houſes.</p>
+            <p>So then it follows, that this <hi>Act,</hi> this <hi>Idol,</hi> which has been ſo much worſhipped, and which was the oc<g ref="char:EOLhyphen"/>caſion of all our miſeries, was void as to the Kings Royal aſſent, and alſo as to the aſſent of the two Houſes, provided I make it appear, that ealling and diſſolving of Parliaments is ſuch a flower of the Crown as cannot be ſevered.</p>
+            <p>And for this I muſt acquaint you with the Antiqu<g ref="char:EOLhyphen"/>ty of Parliaments, and the manner of them; I finde many conceits of their antiquity, and many ſtrains and conj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctural inferences from dubious and ince<g ref="char:EOLhyphen"/>tain Hiſtory of the antiquity of the Commons Houſe: but according to the cleareſt and moſt allowed courſe of ſtory, I affirm thus; That Parliaments are of ve<g ref="char:EOLhyphen"/>ry ancient ſtanding before the conqueſt, but not ſuch Parliaments as we have now; for thoſe conſiſted on<g ref="char:EOLhyphen"/>ly of the King and his Nobles, and not all the No<g ref="char:EOLhyphen"/>bles neither, but ſuch as the King was pleaſed to
+<pb n="8" facs="tcp:119280:5"/> call; and ſo it continued till the Raign of <hi>H.</hi> 1. in the 16th year of whoſe Raign was the firſt ſitting of the Commons in Parliament, which was occaſioned thus; <hi>H.</hi> the firſt was an Engliſhman, and therefore feared the revolt of the <hi>Normans</hi> from him, (for they favoured his Brother <hi>Robert</hi> Duke of <hi>Normandy)</hi> and he underſtanding that his own Country-men had a kindneſs and affection for him, called the chief of them to his great Councel, and did by that means ſet<g ref="char:EOLhyphen"/>tle himſelf ſure in his Throne, (which I take for a good rule for other Kings).</p>
+            <p>Yet this manner of aſſembling was not alwayes continued ſince that time; for ſometimes the chief of the Nobility were onely Called, and they at the end of the Parliament imparted to the other Barons, and their Country, what was done in Parliament: af<g ref="char:EOLhyphen"/>terwards King <hi>John</hi> ordained that all Barons of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> ſhould come in proper perſon to Parliament, be<g ref="char:EOLhyphen"/>ing ſummoned, 20 Knights Fees, after 20 l. a Fee, going to the value of an entire County, and fifteen Knights Fe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, making an entire Baron, by which they ſate. But King <hi>Hen,</hi> 3<hi rend="sup">d</hi> after he had ſmarted by the tumultuation of the Barons, their multitudes bring<g ref="char:EOLhyphen"/>ing confuſion, ordained, that thoſe Earls and Barons onely to whom he directed his Writs, ſhould come to Parliament, and none elſe. Afterwards his Son <hi>Edw.</hi> 1. (who indeed may be called the Founder of our civil Eſtate) called ſuch of the Barons as he pleaſed, and omitted the reſt, and appointed the Knights and Burgeſſes to be Elected (which is the firſt time that I reade of Election for before that, when the Commons were called, it was onely ſuch
+<pb n="9" facs="tcp:119280:5"/> of the chief of them as the King pleaſed) And as it was ſetled in <hi>Edward</hi> the Firſt's time, it continued till <hi>Edward</hi> the Third (there being then in uſe a Writ, <hi>de Admitten do fide dignos ad colloquium)</hi> and ſo down<g ref="char:EOLhyphen"/>wards, of the ſpecial Grace and Favour of wiſe, pious and Indulgent Kings, it has continued to this day.</p>
+            <p>By this appears the extent of prerogative which at<g ref="char:EOLhyphen"/>tended our Kings in former days, in relation to Parlia<g ref="char:EOLhyphen"/>ments; and although latter times have by favour and indulg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce won upon it; yet it cannot be doubted, but it is ſtill, as it is at this day, a Flower of the Crown to Call Parliaments, and conſequently to Diſſolve Parliaments, which alſo is allowed by our <hi>Pamphle<g ref="char:EOLhyphen"/>ter,</hi> fol. 7. for, <hi>Quo aliquid conſtituitur diſſolvitur;</hi> and my Lord <hi>Cooke</hi> in ſeveral places affirms, That it is againſt Natural Equity to oppoſe that Rule, <hi>That that which Conſtitutes ſhould not Diſſolve;</hi> and no man will deny but an Act of Parliament againſt Natural Equity is void; and hear what Juſtice <hi>Dodderidge,</hi> (that learned man) ſays in his Treatiſe of Parliaments, That the King, <hi>jure Regio,</hi> as a Flower of his Crown, hath the Abſolute power of Calling and Diſſolving of Parliaments as oft as he pleaſeth, which never yet was oppoſed.</p>
+            <p>Then it will follow upon the Reaſons before men<g ref="char:EOLhyphen"/>tioned, That the King with the conſent of the two Houſes cannot grant it away; then if he grant it away it remain'd in him after the ſigning of that Act; ſo that That Act was not binding to him; and by this all our <hi>Pamphleters</hi> Arguments are ſet a ſide.</p>
+            <p>And the rather a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e we to make the beſt and favou<g ref="char:EOLhyphen"/>rableſt
+<pb n="10" facs="tcp:119280:6"/> conſtruction in this caſe, becauſe the ſigning of that Act was againſt his Royal Inclination, being indeed compelled (as it were) thereto by the violent, heady, inconſiderate and raſh preſſures of thoſe turbu<g ref="char:EOLhyphen"/>lent ſpirits, which have ſo lately infeſted our Land, and ungraciouſſy diſturbed the Religious peace there<g ref="char:EOLhyphen"/>of.</p>
+            <p>But admitting that Act ſhould be in its Creation obligatory, yet it is to be conſidered,
+<list>
+                  <item>Firſt, <hi>How far it is binding:</hi>
+                  </item>
+                  <item>Secondly, <hi>How long it is binding.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>As to the firſt, The Law is clear, That an Act of Parliament may at its Creation binde generally, but by reaſon of ſome unexpected conſequents and fu<g ref="char:EOLhyphen"/>ture Events, which inevitably or imminently import danger to the publick, it may become of no force; and this may be in the Caſe of common perſons; as the Statutes of <hi>Marlbridge</hi> and <hi>Gloceſter,</hi> &amp;c. againſt Tenants committing waſte in Houſes or Lands gene<g ref="char:EOLhyphen"/>rally; yet in caſe of a fire in the neighbours houſe, it is juſtifiable to pull down the houſe next; and in caſe of wars againſt the Kings enemies, it is lawful to make Bulwarks upon the Lands; and many more Caſes may be to this purpoſe; Then a <hi>fortiori,</hi> in the caſe of the King, who is bound to preſerve the Publick, and in whoſe ſafety, and in the juſt maintenance of whoſe Royal Native prerogative is lodged the intire Concern of the Common-wealth; and this is ſadly demonſtrated to us by his late Majeſties waving the
+<pb n="11" facs="tcp:119280:6"/> execution of this undoubted part of his Royal Prero<g ref="char:EOLhyphen"/>gative for which I now labour, whereby we have ſorely felt, and dearly undergone theſe unmatchable miſeries, wherewith theſe three Kingdoms have been ſo long and tediouſly exerciſed; which is Argument enough to ſatisfie any reaſonable and ſober mind a<g ref="char:EOLhyphen"/>gainſt the unreaſonableneſs of it, and to perſwade them in their conſcience, That ſuch an unheard of Preſident ſhould not innovate ſo much upon prero<g ref="char:EOLhyphen"/>gative, as to bind up the Kings Hands (which ſhould defend and preſerve himſelf and his people) and to make him ſtand ſtill while his Loyal Subjects are Murdered before his face, his own Throat cut be<g ref="char:EOLhyphen"/>fore his Palace, and the moſt horrid confuſions that ever was heard of, brought upon a Land (before that time) the moſt flouriſhing that ever was ſeen; and all this fell out upon ſuppoſition of that Act being in force, which the King might have waved; for in the caſe of Ship-money, though it was the better opini<g ref="char:EOLhyphen"/>on that the King could not raiſe moneys but by Par<g ref="char:EOLhyphen"/>liament generally; yet in caſe of apparent danger to the Kingdom, it was agreed by all the Judges of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> that he might: But then admitting it binding in its Creation; the ſecond thing is its duration, how long it binds; and for that, its clear it can bind him no longer then he lives; For that thus,</p>
+            <p>The intent of the Law-makers is to be obſerved in the expoſition of the Laws. Now we know full well, that the makers of that Act never thought of the Kings death (eſpecially his Murder) at the time
+<pb n="12" facs="tcp:119280:7"/> of the making of that Act; but that which was the moving cauſe of that Act from the Houſes, was the remembrance of the Kings breaking up of ſeverall Parliaments before, whereby ſome of the Members were prevented to vent their malicious and cruel de<g ref="char:EOLhyphen"/>ſigns upon ſome of the Kings loyal Favorites (whom for their preferment they emulated) as before on <hi>Buckingham,</hi> and after upon incomparable <hi>Strafford,</hi> by the <hi>Vanes,</hi> Father and Son, and this was under the notion of bringing Delinquents to puniſhment. O<g ref="char:EOLhyphen"/>thers indeed, more ſober, might have an eye to ſub<g ref="char:EOLhyphen"/>ſtantial grievances to be redreſſed, and therefore de<g ref="char:EOLhyphen"/>ſired that the King would not diſſolve them till they were redreſſed.</p>
+            <p>But good reaſon for the Kings actions therein; for he was adviſed, of two Evils to chuſe the leaſt; rather to diſſolve twenty Parliaments, and leave ſome, particular Delinquents unpuniſhed, ſome particular grievances unredreſſed, then by preſerving one Par<g ref="char:EOLhyphen"/>liament or more, to diſſolve the foundations of the Kingdom. He was adviſed of the Jeſuits plot which had been ſo long upon the Anvil againſt him, which made him loath to conſent to this fatal act, which rendred him ſuppoſedly obnoxious to the fatal Axe; ſo that though he was compelled in prudence to himſelf, and policy to his Kingdoms, to break up thoſe Parliaments, yet the <hi>profanum vulgus,</hi> the ru<g ref="char:EOLhyphen"/>der people, and heady Commons, would not under<g ref="char:EOLhyphen"/>ſtand it right, but indeavoured to bind him up as ſure as they could, and that was by this Act, which is the chief deſign ſignified in the preamble of that
+<pb n="13" facs="tcp:119280:7"/> Act. What is mentioned beſide in the ſame pre<g ref="char:EOLhyphen"/>amble, is of no weight, for his Majeſties Army there ſpoken of ceaſed to be his by their rebellion; his Majeſties urgent occaſions there mentioned, were never intended to be ſatisfied; and as for the credit of raiſing money, ſurely an <hi>Act</hi> of Parliament might have raiſed money without borrowing, or giving their ſecurity, every one being thereby ſecurity for himſelf, as well as by ingaging of their Publick Faith; and that <hi>Act</hi> would have continued not onely after diſſolution, but after the Kings death, without the help of this ſpecious <hi>Act,</hi> and that might have been made in as ſhort a time as this; ſo that the ne<g ref="char:EOLhyphen"/>ceſſity of that <hi>Act,</hi> which our Author mentions, is like that of <hi>Don van Doſme,</hi> who told the Work<g ref="char:EOLhyphen"/>men of a neceſſity of removing the Chimney, be<g ref="char:EOLhyphen"/>cauſe the fire burnt his ſhinns. And as to the Con<g ref="char:EOLhyphen"/>cluſion of the Preamble, that it might not be diſ<g ref="char:EOLhyphen"/>ſolved before ſufficient proviſion was raiſed for re<g ref="char:EOLhyphen"/>payment of the money borrowed; if this ſhould give a determination, ſure it were at an end before now, there having been moneys enough to do that, raiſed by that deſperate piece of Sacriledge, the Sale of Crown and Church-Lands, Cuſtomes, Exciſe, and abominable Taxes.</p>
+            <p>But further to the <hi>Act</hi> it ſelfe. There is another rule, <hi>Ad ea quae frequentius accidunt jura adaptantur;</hi> Laws are made for relief of Common and obvious Grievances, and to prevent the moſt probable and frequent accidents; ſuch was, then, that of breaking
+<pb n="14" facs="tcp:119280:8"/> up Parliaments before mentioned. And it cannot be intended, that an <hi>Act</hi> of Parliament ſhould pro<g ref="char:EOLhyphen"/>vide againſt a thing at ſuch diſtance, ſhould be intro<g ref="char:EOLhyphen"/>ductory of a new Law, ſhould confound preroga<g ref="char:EOLhyphen"/>tive, deſtroy the King, and undo the people; and all this by dubious and implicite words, by a ſtrange and novel conſtruction, the effects and conſequents whereof are ſo incomparably dangerous and fatal to the Kingdome, as has been before ſhewn and ſeen.</p>
+            <p>Laſtly, admitting further, That the Kings death was intended by that <hi>Act;</hi> yet was the <hi>Act</hi> void as to that, and that upon this account.</p>
+            <p>If an impoſſibility be Enacted; or if a thing which is poſſible at the time of the making of the <hi>Act,</hi> be<g ref="char:EOLhyphen"/>come impoſſible by the act of God, the <hi>Act</hi> ceaſes to be of force as to that.</p>
+            <p>And therefore as to the firſt, If they had Enacted, That at the time of the making of the ſame <hi>Act,</hi> there was no King in <hi>England,</hi> that had been void, becauſe impoſſible to be true, that that ſhould be an <hi>Act,</hi> and that the King ſhould not be at that time King, whereas his being at that time King made that an <hi>Act.</hi>
+            </p>
+            <p>As to the other, is our caſe; admitting it poſſible that the Kings hands might be bound up, yet the hands of the Law can't be bound up; for the opera<g ref="char:EOLhyphen"/>tion of Law upon the death of the King makes that impoſſible, which before was ſuppoſed poſſible; and therefore I am of opinion, with clearneſs, that if the <hi>Act</hi> had been, That the Lords and Commons ſhould be a Parliament, to make <hi>Acts</hi> after the Kings death,
+<pb n="15" facs="tcp:119280:8"/> that it had been void and nonſence; for they might as well have Enacted, that <hi>Pauls</hi> Steeple ſhould be <hi>Charing-Croſs;</hi> for its impoſsible that an <hi>Act</hi> ſhould be without the Kings Royal aſſent, and his conſent cannot be after his death; and there is no Clauſe that pretends to oblige his Succeſſor to confirm or con<g ref="char:EOLhyphen"/>ſent, which our Pamphleter would have our King to do voluntarily, and therefore tells out of my Lord <hi>Cooks</hi> 3<hi rend="sup">d</hi> (which ſhould be his 4th) Inſtitutes, That the King ſits in Parliament in his Politick Capacity, and in that capacity never dyes; which is all true, for he never dyes as to ſucceſsion, to avoid an <hi>Interreg<g ref="char:EOLhyphen"/>num, &amp;c.</hi> But as to continuances of Writs and Com<g ref="char:EOLhyphen"/>miſsions, &amp;c. which by his death are determined, he dyes.</p>
+            <p>The King ſits in the Court called the <hi>Kings Bench,</hi> in his Politick Capacity; yet by his death, not onely the Judges Commiſsions in that Court, but all pro<g ref="char:EOLhyphen"/>ceedings there were originally determined, elſe had the Parliament in 1 <hi>Edw. 6. cap.</hi> 7. little to do to make an <hi>Act</hi> to ſalve diſcontinuances of proceſs by the device of the death of the King; but I never heard of an <hi>Act</hi> to ſalve the determination of Writs and Commiſsions, or to oblige a ſucceding King to con<g ref="char:EOLhyphen"/>firm a Parliament called by his Predeceſſor; ſo that though perhaps he might confirm them, and then conſent to an <hi>Act</hi> of Diſſolution; yet our Gracious Soveraign knows them too well to call them toge<g ref="char:EOLhyphen"/>ther again, much leſs to confirm them; and then there is no need of an <hi>Act</hi> of Diſſolution, they being diſſolved of courſe for want of a King to own them.</p>
+            <pb n="16" facs="tcp:119280:9"/>
+            <p>As to what out Author mentions that the coming in of the <hi>Secluded Members,</hi> and their making a pre<g ref="char:EOLhyphen"/>tended Act for Diſſolution, implyed their opinion that the Parliament had before a being: It is far other<g ref="char:EOLhyphen"/>wiſe, as the chief of them, Mr. <hi>Prynne,</hi> before de<g ref="char:EOLhyphen"/>clared; but it was in thoſe furious days, to pacifie, and to give ſome ſeeming ſatisfaction to ſuch impertinent and unſetled Noddies as our Author, who otherwiſe might have made ſome diſturbance, and occaſioned ſome prejudice to the good that was then intended, and ſince accompliſhed.</p>
+            <p>And whereas this bold fellow would p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſwade that the old Members might be recalled, what is it but to remove <hi>Newgate</hi> to <hi>Weſtminſter;</hi> that the King ſhould clap R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bels on the back, and incourage Trea<g ref="char:EOLhyphen"/>ſon, that he ſhould not onely commend his Fathers Murder, and the deſtruction of the Church and State, but to give them a Knife to kill Him too, and to make an end of all; Such a ſeditious piece of Nonſenſical vi<g ref="char:EOLhyphen"/>lany was never broached before. But whileſt I am harſh to the <hi>Long Parliament,</hi> I intend the <hi>Rump</hi> on<g ref="char:EOLhyphen"/>ly, and not the <hi>Secluded Members,</hi> ſome of whom Our Soveraign is pleaſed to own in this Parliament and elſewhere; but for the other, I think they are well diſpoſed of, being fitter for a Dungeon then a Parliament-Houſe: And ſo I leave them.</p>
+            <p>This Impudent Pamphleter is not only content to indeavour to vindicate and revive evil, but would oppoſe and deſtroy the apparent good of this Nati<g ref="char:EOLhyphen"/>on, and would Affront (under the Notion of <hi>[Ille<g ref="char:EOLhyphen"/>gal])</hi>
+               <pb n="17" facs="tcp:119280:9"/> this happy Parliament, that has renowned It ſelf in reſtoring our King to us, and us to our ſelves:</p>
+            <list>
+               <label>And this he indeavours</label>
+               <item>
+                  <list>
+                     <item>Firſt, <hi>As to the Lords.</hi>
+                     </item>
+                     <item>Secondly, <hi>As to the Commons.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>As to the Lords.</label>
+               <item>
+                  <list>
+                     <item>Firſt, <hi>They are not of age.</hi>
+                     </item>
+                     <item>Secondly, <hi>They are not called by Writs</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>As to the Commons</label>
+               <item>
+                  <list>
+                     <item>Firſt, <hi>They are not called by ancient Writs.</hi>
+                     </item>
+                     <item>Secondly, <hi>They wanted the Kings preſence at their Meeting.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>And all this is ſaid by Sir <hi>Edward Coke,</hi> in his fourth Inſtitutes requiſite to a Parliament rightly conſtitued</p>
+            <p>
+               <hi>As to the Lords,</hi>
+            </p>
+            <p>I agree they ought to be of full age to ſit in Parlia<g ref="char:EOLhyphen"/>ment, and ſo I preſume they are that ſit; I never heard otherwiſe by the Author or others.</p>
+            <p>
+               <hi>Secondly,</hi> My Lord <hi>Coke</hi> ſays that Dukes, <hi>&amp;c.</hi> and Barons, <hi>&amp;c.</hi> ought to have a Writ of Summons, <hi>Ex debito juſtitiae;</hi> his meaning is, That they ought not to be prohibited, but ought of common Juſtice to ſit; but this denies not but that they may ſit with<g ref="char:EOLhyphen"/>out Writ, if the King pleaſe: And therefore take this difference, where a Writ is neceſſary and of ſub<g ref="char:EOLhyphen"/>ſtance, and where 'tis a thing of courſe only; as if one be created Baron for life, Intail, or in Fee, <hi>&amp;c.</hi> by Letters Patents, he is preſently a Peer of the Realm before he ſits in Parliament, and his Writ is a thing of Courſe, and may be ſued out at any time afte the ſitting, as well as before. But where one holds <hi>per Baroniam</hi> only, whereby he is a Lord by Tenure, he muſt have a Writ, and muſt ſit alſo by virtue of that Writ before he be a Peer, and there his Writ is
+<pb n="18" facs="tcp:119280:10"/> ſubſtance, and a <hi>ſine qua non,</hi> &amp;c. This diverſity was reſolved in Parliament in King <hi>James</hi>'s time in the caſe of the Lord <hi>Abergaveny,</hi> and is reported by my Lord <hi>Coke</hi> under his own hand; it is now in Print in a book called his <hi>Twelfth Report,</hi> fol. 70. by which the reſt of the Books of my Lord <hi>Coke, viz.</hi> his Firſt, Second and Fourth <hi>Inſtitutes,</hi> which are not ſo clear, may be the better underſtood as to this Point.</p>
+            <p>Now then if theſe Lords be ſo by Patent, their Writ is not of ſubſtance, but ſupplyed by confirma<g ref="char:EOLhyphen"/>tion; if by Tenure, and have no Writs, 'tis more then I hear affirmed by any; however it belongs to the reſt of that Houſe to inquire of theſe things.</p>
+            <p>
+               <hi>As to the Commons.</hi>
+            </p>
+            <p>Firſt, I agree they ought to have VVrits of Electi<g ref="char:EOLhyphen"/>on; the policy of that is to avoid the peoples meet<g ref="char:EOLhyphen"/>ing and aſſembling together without the Licence of the King.</p>
+            <p>I agree alſo, that the Writs ought to be in the anci<g ref="char:EOLhyphen"/>ent Forms, that is to avoid the Kings ſingle alterati<g ref="char:EOLhyphen"/>on of things anciently attending Parliaments, with<g ref="char:EOLhyphen"/>out the conſent of the people. Now as to the firſt, this meeting of the people was with the Kings Con<g ref="char:EOLhyphen"/>ſent and Licence, witneſs Sir <hi>George Booths</hi> Conteſt, by the Kings Order, for the ſame; ſo that there is no prejudice to the King on that ſide.</p>
+            <p>As to the Form of the Writ, it was by conſent of all, and ſo no prejudice or innovation upon the peo<g ref="char:EOLhyphen"/>ple on the other ſide; then it follows, <hi>Conſenſus tollit Errorem;</hi> if all parties concerned agree, who is to find fault?</p>
+            <p>Further, a Parliament made up in ſubſtance accor<g ref="char:EOLhyphen"/>ding to the Laws of the Land, is a good Parliament,
+<pb n="19" facs="tcp:119280:10"/> though it may be defective in the complement of cir<g ref="char:EOLhyphen"/>cumſtances, witneſs the Parliament holden at <hi>Coven<g ref="char:EOLhyphen"/>try, 6 H. 4. An.</hi> 1404. to the calling of which Parlia<g ref="char:EOLhyphen"/>ment Writs went out; in which Writs was contained that no Lawyer ſhould be choſen, which made the Writs victious, to abridge the people in their liberty to elect; yet there were ſome Acts made at the Parlia<g ref="char:EOLhyphen"/>ment which continued in force, which proves that Circumſtances (which are of right to be obſerved) are not fatal to Parliament proceedings, though o<g ref="char:EOLhyphen"/>mitted. And under this head alſo comes that of the Kings perſonal or repreſentative preſence in the being of a Parliament.</p>
+            <p>But further, without doubt the Kings conſent to the Act for that purpoſe, has made all whole, and has made that Parliament from the beginning of their firſt meeting, though till that time they were not a le<g ref="char:EOLhyphen"/>gal Parliament, ſuch Energy and ſtrong relation has oftentimes the Acts of a King: like this caſe; Lords and Commons make an Ordinance, which naturaily can continue but during their ſitting; then the King diſſolves them, the Ordinance thereby is become of no force; yet if after the diſſolution of the Parlia<g ref="char:EOLhyphen"/>ment the King grants his Royal aſſent, its now be<g ref="char:EOLhyphen"/>come revived and an Act; ſuch an influence has the Royal aſſent upon Parliament-proceedings, and ac<g ref="char:EOLhyphen"/>cording to this its adjudged in 29 <hi>Edw.</hi> 3. 4. b &amp; 39 <hi>Edw.</hi> 3. 7. This I take to be a ſtronger caſe, that the <hi>Act</hi> of the King ſhould revive that which was dead; that it ſhould make good that which was abſolutely void, and that in point of ſubſtance; then that it ſhould confirm that which was but voidable at moſt, and that in a point of circumſtance onely.</p>
+            <pb n="20" facs="tcp:119280:11"/>
+            <p>Beſides, the legality of a Parliament is not to be diſputed by ſubjects, if the King aſſents to it; its to be tryed onely by it ſelf, or a ſucceeding Parliament; and therefore in 33 <hi>Hen.</hi> 6. 17. An Act mentioning it ſelf made by the conſent of the King and the Com<g ref="char:EOLhyphen"/>mons (omitting the Lords) was holden by <hi>Forteſcue</hi> chief Juſtice for the preſent, to be a good Act; for, (ſaies he) we will be adviſed before we go about to Null an Act of Parliament; but its beſt to refer it to the next Parliament.</p>
+            <p>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſides, if we conſider what great things a Parlia<g ref="char:EOLhyphen"/>ment can do, with the Kings aſſent, (provided it ex<g ref="char:EOLhyphen"/>tend not to prerogative and ſuch ſubſtantials) we cannot doubt of the legality of this; and whereas its ſaid that the forms of Writs &amp;c. can't be altered but by Parliament; this Parliament has ſalved that and all other Circumſtantial, defects by the Act of Con<g ref="char:EOLhyphen"/>firmation; which if otherwiſe, ought not to be que<g ref="char:EOLhyphen"/>ſtioned but in Parliament, their doings there being to us, <hi>Phoebi or acula, vera &amp; fixa.</hi>
+            </p>
+            <p>I ſhall conclude with a Caſe cited by my Lord <hi>Cook</hi> in his 4th Inſtitutes, (a Book our Author is ac<g ref="char:EOLhyphen"/>quainted with) but I wonder he miſſed it: He tells there of a Parliament man, who for writing in diſho<g ref="char:EOLhyphen"/>nour of the Parliament, was committed to the Tower for ſix moneths, and fined 500 Marks.</p>
+            <p>Now if a Parliament man (who has more liberty allowed then ſuch whifflers as our Author) was fined ſo much for writing in diſhonour, only; what ſhall be done with this ſeditious Deſperado, that writes in deſtruction of the Parliament? but <hi>ſub judice lis est.</hi>
+            </p>
+            <pb facs="tcp:119280:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
